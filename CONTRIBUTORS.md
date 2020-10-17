@@ -1,12 +1,12 @@
 Contributors
 ============================================
-本サイトにご協力いただいた皆様
+本サイトの整備にご協力いただいた皆様です。
 
 | Name | Contribution |
 | --- | --- |
 | [name](link) | role |
 
-ご協力ありがとうございます！！
+ご協力ありがとうございます！
 
 -----------
 本サイトの[テンプレートリポジトリ](https://github.com/Scout-Association-of-Japan/Repository-template)作成にご協力いただいた皆様

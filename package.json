@@ -1,0 +1,25 @@
+{
+  "name": "RCJ-operation-manuals",
+  "version": "1.0.0",
+  "description": "Template repository of Scout Association of Japan.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scout-Association-of-Japan/RCJ-operation-manuals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scout-Association-of-Japan/RCJ-operation-manuals/issues"
+  },
+  "homepage": "https://github.com/Scout-Association-of-Japan/RCJ-operation-manuals#readme",
+  "devDependencies": {
+    "textlint": "^11.7.6",
+    "textlint-rule-preset-ja-spacing": "^2.0.2",
+    "textlint-rule-preset-ja-technical-writing": "^4.0.1"
+  }
+}
